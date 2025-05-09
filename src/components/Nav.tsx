@@ -7,7 +7,7 @@ const Nav = () => {
     <nav>
       <h1>
         <Link to='/' id='logo'>
-          Film Tracker
+          Film Tracker DODODODOD
         </Link>
       </h1>
       <ul className='nav nav-tabs'>
